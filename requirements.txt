@@ -4,5 +4,4 @@ pypdf
 streamlit-option-menu
 gTTS
 python-docx
-pymupdf
-pytesseract
+easyocr
