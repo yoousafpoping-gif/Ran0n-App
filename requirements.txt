@@ -1,3 +1,6 @@
 streamlit
 google-generativeai
 pypdf
+streamlit-option-menu
+gTTS
+python-docx
